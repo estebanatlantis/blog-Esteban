@@ -1,0 +1,57 @@
+body {
+background-image: url(dbz.jpg);
+background-size: cover;
+padding: 0;
+margin: 0;
+font-family: arial;
+}
+
+header {
+background-color: #488bf4;
+padding: 10px;
+}
+
+header a {
+text-decoration: none;
+color:white;
+}
+
+li  {
+list-style-type: none;
+    padding: 20px;
+    margin: 10px;
+}
+
+ul {
+display:flex;
+justify-content:center;
+margin: 0;
+padding: 0;
+}
+
+footer {
+position: absolute;
+bottom: 0px;
+background-color: #488bf4; 
+height: 100px;
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center; 
+
+
+}
+#rose {
+text-align: center;
+margin: auto;
+margin-bottom: 60px;
+width: 20%}
+
+#text {
+border:1px solid black;
+background-color:#488bf4; 
+border-radius: 20px;
+}
+paul {
+background-color: aqua;
+}
